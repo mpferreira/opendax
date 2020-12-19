@@ -1,6 +1,8 @@
-# Deploy opendax peatio exchange in few click in ubuntu 20.04  :) installation by poseidon( telegram id: pos3idon ) https://coincooper.com
+# Deploy opendax peatio exchange in few clicks 
 
+# installation by poseidon( telegram id: pos3idon ) https://coincooper.com
 
+# ubuntu 20.04 
 
 create user :
 ```
