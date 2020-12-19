@@ -1,4 +1,4 @@
-# Deploy opendax peatio exchange in few clicks 
+# Deploy opendax peatio exchange in bash scripts
 
 # installation by poseidon( telegram id: pos3idon ) https://coincooper.com
 
