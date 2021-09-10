@@ -4,6 +4,12 @@
 
 # ubuntu 20.04 
 
+upgrade your system:
+```
+sudo apt update
+sudo apt upgrade
+```
+
 create user :
 ```
 
